@@ -1,3 +1,5 @@
 Nom:Ndiaga Dieng
 email:ndiagadiengs1@gmail.com
 identifiant Slack:Ndiaga dieng
+Etudiant l2 Tdsi 
+option:math-crypto
